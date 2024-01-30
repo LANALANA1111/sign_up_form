@@ -1,0 +1,51 @@
+@media (width >1024px) {
+    .responsive {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .header>h1 {
+        width: 556px;
+        font-size: 54px;
+        line-height: 70px;
+
+    }
+
+    .header>p {
+        width: 599px;
+        font-size: 17px;
+        padding-top: 50px;
+        text-align: start;
+        padding-left: 40px;
+    }
+
+    .rspnsv_2 {
+        padding-top: 150px;
+    }
+
+    .first_button {
+        width: 540px;
+        height: 60px;
+    }
+
+    .four_input {
+        width: 540px;
+        height: 474px;
+    }
+
+    .four_input>input {
+        width: 460px;
+        height: 56px;
+    }
+
+    .four_input>button {
+        width: 460px;
+        height: 56px;
+    }
+
+    .four_input>p {
+        width: 400px;
+    }
+
+}
